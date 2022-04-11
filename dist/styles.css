@@ -813,7 +813,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: sans-serif;
   /* font-family: 'Vazirmatn', sans-serif; */
   /* font-family: 'Prompt', sans-serif; */
   /* font-family: 'Inter', sans-serif; */
@@ -989,11 +989,6 @@ font-family: 'Vazirmatn', sans-serif;*/
 
   .md\:text-\[58px\] {
     font-size: 58px;
-  }
-
-  .md\:text-xl {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
   }
 
   .md\:text-4xl {
