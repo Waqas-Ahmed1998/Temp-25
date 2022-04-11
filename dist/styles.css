@@ -482,8 +482,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: 0.25rem;
 }
 
-.mt-20 {
-  margin-top: 5rem;
+.mt-6 {
+  margin-top: 1.5rem;
 }
 
 .mb-3 {
@@ -665,11 +665,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .border-transparent {
   border-color: transparent;
-}
-
-.bg-\[\#08c6f5\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(8 198 245 / var(--tw-bg-opacity));
 }
 
 .bg-transparent {
@@ -911,6 +906,10 @@ font-family: 'Vazirmatn', sans-serif;*/
   .md\:mx-auto {
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .md\:mt-16 {
+    margin-top: 4rem;
   }
 
   .md\:w-\[80\%\] {
